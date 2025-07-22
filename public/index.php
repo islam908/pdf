@@ -225,8 +225,8 @@
                     <ul>
                         <li><a href="merge.php">دمج PDF</a></li>
                         <li><a href="split.php">تقسيم PDF</a></li>
-                        <li><a href="protect.php">حماية PDF</a></li>
-                        <li><a href="edit.php">تعديل PDF</a></li>
+                        <li><a href="sign.php">توقيع PDF</a></li>
+                        <li><a href="editor.php">تعديل PDF</a></li>
                     </ul>
                 </div>
                 <div class="footer-section">
