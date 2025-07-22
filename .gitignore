@@ -1,0 +1,30 @@
+# Ignorer les fichiers/dossiers suivants
+
+# Dossiers système
+.DS_Store
+Thumbs.db
+
+# Composer
+/vendor/
+/composer.lock
+
+# Fichiers temporaires
+*.log
+*.tmp
+
+# Dossiers de téléchargement et d’upload
+/public/downloads/
+/public/uploads/
+/downloads/
+
+# IDEs
+.vscode/
+.idea/
+
+# Cache
+.cache/
+*.cache
+
+# Autres fichiers temporaires
+*.swp
+*.bak
